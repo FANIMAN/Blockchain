@@ -1,0 +1,9 @@
+/* section.css */
+.section-container {
+    background-image: url('/BG.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    width: 100%;
+  }
+  
